@@ -1,0 +1,14 @@
+:root {
+  --primary-font: "Roboto", sans-serif;
+
+  --color-primary: #11bb67;
+  --color-secondary: #ff6525;
+}
+@font-face {
+  font-family: "secondary-font";
+  src: url("../fonts/Gloss\ And\ Bloom\ Font.ttf");
+}
+
+body {
+  font-family: var(--primary-font);
+}
